@@ -1,0 +1,193 @@
+@media (max-width: 1500px) {   
+
+    .NavBar{
+        position: relative;
+        display: flex;
+        top: 0px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #0000001C;
+        opacity: 1;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        }
+        .navHeader{
+        text-align: left;
+        font: normal normal 900 52px/73px Arial;
+        letter-spacing: 0px;
+        color: #E00E0E;
+        opacity: 1;
+        }
+        .cartIcon{
+        padding-right: 6%;
+        }
+        .Image{
+        display: flex;
+        width: 80%;
+        height: 80%;
+        }
+        .textDiv{
+        border-left: 8px solid red;
+        text-align: left;
+        padding-left: 2%;
+        }
+        .textMain{
+        font: normal normal bold 67px/82px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        }
+        .textSub{
+        font: normal normal normal 50px/60px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        
+        }
+        .paraDiv{
+        padding-top: 5%;
+        padding-left: 3%;
+        text-align: left;
+        font: normal normal normal 22px/40px Arial;
+        letter-spacing: 0px;
+        color: #9E7474;
+        opacity: 1;
+        }
+        .button1{
+        width: 231px;
+        height: 80px;
+        color: #FFFFFF;
+        /* UI Properties */
+        background: #E00E0E 0% 0% no-repeat padding-box;
+        border-radius: 81px;
+        opacity: 1;
+        border: unset;
+        }
+        .button2{
+        width: 231px;
+        height: 80px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 2px 5px 7px #00000029;
+        border-radius: 81px;
+        opacity: 1;
+        color: #D85A5A;
+        border: unset;
+        }
+        .rowDiv1{    
+        padding: 4px;
+        }
+        .rowDiv2{
+        padding-top: 14px;
+        padding-left: 10px;
+        }
+        .foodLabel{
+        text-align: left;
+        font: normal normal bold 22px/40px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        }
+        .timeLable{
+        text-align: left;
+        font: normal normal normal 22px/40px Arial;
+        letter-spacing: 0px;
+        color: #9E7474;
+        }
+}
+
+@media (max-width: 575px) {   
+
+    .NavBar{
+        position: relative;
+        display: inline-block;
+        top: 0px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #0000001C;
+        opacity: 1;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        }
+        .navHeader{
+        padding-left: 2%;
+        text-align: left;
+        font: normal normal 900 52px/73px Arial;
+        letter-spacing: 0px;
+        color: #E00E0E;
+        opacity: 1;
+        }
+        .cartIcon{
+        padding-right: 6%;
+        }
+        .Image{
+        display: flex;
+        width: 60%;
+        height: 60%;
+        }
+        .textDiv{
+        border: none;
+        text-align: center;
+        padding-left: 2%;
+        }
+        .textMain{
+        font: normal normal bold 50px/82px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        }
+        .textSub{
+        font: normal normal normal 35px/60px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        
+        }
+        .paraDiv{
+        padding-top: 5%;
+        padding-left: 3%;
+        text-align: center;
+        font: normal normal normal 20px/40px Arial;
+        letter-spacing: 0px;
+        color: #9E7474;
+        opacity: 1;
+        width:99%
+        }
+        .button1{
+            width: 161px;
+            height: 60px;
+        color: #FFFFFF;
+        /* UI Properties */
+        background: #E00E0E 0% 0% no-repeat padding-box;
+        border-radius: 81px;
+        opacity: 1;
+        border: unset;
+        }
+        .button2{
+        width: 161px;
+        height: 60px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 2px 5px 7px #00000029;
+        border-radius: 81px;
+        opacity: 1;
+        color: #D85A5A;
+        border: unset;
+        }
+        .rowDiv1{  
+            display: inline;
+            width: fit-content;
+        }
+        .rowDiv2{
+        width:50%
+        }
+        .foodLabel{
+        text-align: left;
+        font: normal normal bold 15px/40px Arial;
+        letter-spacing: 0px;
+        color: #000000;
+        }
+        .timeLable{
+        text-align: left;
+        font: normal normal normal 15px/40px Arial;
+        letter-spacing: 0px;
+        color: #9E7474;
+        }
+}

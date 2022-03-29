@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.889" height="55.305" viewBox="0 0 45.889 55.305">
+  <g id="Group_104" data-name="Group 104" transform="translate(-1667.299 -129.194)">
+    <path id="Path_1" data-name="Path 1" d="M4944.111,2802.369c-5.341.333-11.3,3.274-11.089,12.146s0,29.783,0,29.783-.21,13.1,13.73,13.2,32-14.363,32.107-30.839,0-17.321,0-17.321.951-6.865-6.548-6.97S4949.453,2802.036,4944.111,2802.369Z" transform="translate(-3265.717 -2673)"/>
+    <g id="Bounding_Boxes" transform="translate(1677.476 141.938)">
+      <path id="Path_2478" data-name="Path 2478" d="M0,0H25.676V25.676H0Z" fill="none"/>
+    </g>
+    <g id="Outline" transform="translate(1678.546 144.078)">
+      <g id="Group_103" data-name="Group 103">
+        <path id="Path_2479" data-name="Path 2479" d="M16.566,13.768a2.129,2.129,0,0,0,1.872-1.1l3.83-6.943a1.066,1.066,0,0,0-.931-1.583H5.5L4.5,2H1V4.14H3.14l3.851,8.12L5.547,14.87a2.144,2.144,0,0,0,1.872,3.177H20.257v-2.14H7.419L8.6,13.768ZM6.52,6.279h13l-2.953,5.349H9.056Z" transform="translate(-1 -2)" fill="#fff"/>
+        <path id="Path_2480" data-name="Path 2480" d="M7.139,18a2.14,2.14,0,1,0,2.14,2.14A2.137,2.137,0,0,0,7.139,18Z" transform="translate(-0.72 -0.883)" fill="#fff"/>
+        <path id="Path_2481" data-name="Path 2481" d="M17.139,18a2.14,2.14,0,1,0,2.14,2.14A2.137,2.137,0,0,0,17.139,18Z" transform="translate(-0.022 -0.883)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
